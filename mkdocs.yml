@@ -1,5 +1,5 @@
 site_name: vanke-wiki
-pages:
+nav:
   - 介绍: index.md
   - 安装: home.md
 #         - 本地环境搭建: home.md
