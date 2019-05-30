@@ -1,13 +1,7 @@
-site_name: android-wiki
+site_name: ANDROID-WIKI
 nav:
-  - 介绍: index.md
-  - 安装: home.md
-  #         - 本地环境搭建: home.md
-  #         - 发布至GitHub Pages: home.md
-  #         - 发布至自己的HTTP Server: home.md
-  - 语法: home.md
-    # - 语法总览: home.md
-    # - 标题: home.md
-    # - 段落: home.md
+  - 知识体系: index.md
+  - 算法: algorithm.md
+  - demo: demo.md
 theme:
   name: 'material'
