@@ -1,7 +1,7 @@
 site_name: ANDROID-WIKI
 nav:
   - 知识体系: index.md
-  - demo: demo.md
+  - 项目demo: demo.md
   - 算法: algorithm.md
 theme:
   name: 'material'
