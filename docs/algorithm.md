@@ -7,8 +7,6 @@
 
 **欢迎打赏**
 
-![mkdocs](images/33d328ba569e4972d5275a4e44c12cf.jpg)
-<img src="images/33d328ba569e4972d5275a4e44c12cf.jpg" width=300 height=300 />
-<img src="/images/33d328ba569e4972d5275a4e44c12cf.jpg" width=300 height=300 />
-<img src="/images/2fa0084100d806fbe77184ce6d5e9ad.jpg" width=300 height=300 />
+![mkdocs](images/acbac106b4a17302810ed29c0defe93.jpg)
+![mkdocs](images/d02b656a6b367079c25e668a5dd7ebe.jpg)
 
