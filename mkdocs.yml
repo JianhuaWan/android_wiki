@@ -1,13 +1,13 @@
-site_name: vanke-wiki
+site_name: android-wiki
 nav:
   - 介绍: index.md
   - 安装: home.md
-#         - 本地环境搭建: home.md
-#         - 发布至GitHub Pages: home.md
-#         - 发布至自己的HTTP Server: home.md
+  #         - 本地环境搭建: home.md
+  #         - 发布至GitHub Pages: home.md
+  #         - 发布至自己的HTTP Server: home.md
   - 语法: home.md
-        # - 语法总览: home.md
-        # - 标题: home.md
-        # - 段落: home.md
+    # - 语法总览: home.md
+    # - 标题: home.md
+    # - 段落: home.md
 theme:
   name: 'material'
