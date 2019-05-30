@@ -7,6 +7,5 @@
 
 **欢迎打赏**
 
-![mkdocs](images/acbac106b4a17302810ed29c0defe93.jpg)
-![mkdocs](images/d02b656a6b367079c25e668a5dd7ebe.jpg)
+ ![mkdocs](images/微信图片_20190530155824.png)
 
