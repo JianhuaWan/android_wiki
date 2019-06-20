@@ -2,6 +2,7 @@ site_name: ANDROID-WIKI
 nav:
   - 知识体系: index.md
   - 项目demo: demo.md
+  - java后端：springboot.md
   - 算法: algorithm.md
 theme:
   name: 'material'
