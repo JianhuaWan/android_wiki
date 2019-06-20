@@ -1,5 +1,5 @@
 site_name: ANDROID-WIKI
-nav:
+pages:
   - 知识体系: index.md
   - 项目demo: demo.md
   - 后端java: springboot.md
